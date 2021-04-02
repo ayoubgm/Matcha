@@ -16,9 +16,9 @@ with his username and password <br/>
 :thought_balloon: Once connected the user must fill his/her profile (gender, sexual preferences, bio, tags, pictures...), at any time connected user can modify these information. <br/>
 :thought_balloon: The user can edit his GPS location. <br/>
 :thought_balloon: After complete profile the user can easly get a list of suggestions that match his/her profile :<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :snowflake: Same geographic area as the user.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :snowflake: With a maximum of common tags.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :snowflake: With a maximum `fame rating`.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :snowflake: Same geographic area as the user.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :snowflake: With a maximum of common tags.<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :snowflake: With a maximum `fame rating`.<br/>
 
 ## :100: `Technologies used`<br/>
 :anger: MySQL<br/>
