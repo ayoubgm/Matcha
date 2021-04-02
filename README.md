@@ -36,6 +36,8 @@ with his username and password <br/>
 [![Screen-Shot-2021-04-02-at-3-24-33-PM.png](https://i.postimg.cc/DyQRHRrw/Screen-Shot-2021-04-02-at-3-24-33-PM.png)](https://postimg.cc/qzRmCbDP)
 ### :triangular_flag_on_post: `Profile`</br>
 [![Screen-Shot-2021-04-02-at-3-25-26-PM.png](https://i.postimg.cc/pV5HG0cm/Screen-Shot-2021-04-02-at-3-25-26-PM.png)](https://postimg.cc/jCTmChbT)
+### :triangular_flag_on_post: `Settings`</br>
+[![Screen-Shot-2021-04-02-at-3-25-36-PM.png](https://i.postimg.cc/qqsZfCC5/Screen-Shot-2021-04-02-at-3-25-36-PM.png)](https://postimg.cc/n9L1Br24)
 ### :triangular_flag_on_post: `Home`</br>
 [![Screen-Shot-2021-04-02-at-3-25-16-PM.png](https://i.postimg.cc/fW1wM4S7/Screen-Shot-2021-04-02-at-3-25-16-PM.png)](https://postimg.cc/7bMvNWVb)
 ### :triangular_flag_on_post: `Profile of others`</br>
