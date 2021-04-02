@@ -15,3 +15,9 @@ chat with those that “liked” back.
 with his username and password <br/>
 :thought_balloon: Once connected the user must fill his/her profile (gender, sexual preferences, bio, tags, pictures...), at any time connected user can modify these information. <br/>
 :thought_balloon: The user can edit his GPS location. <br/>
+
+## :100: `Technologies used`<br/>
+:anger: MySQL<br/>
+:sparkles: ReactJS<br/>
+:alien: NodeJS (Express)<br/>
+:eyes: antd (UI)<br/>
