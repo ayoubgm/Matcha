@@ -12,6 +12,6 @@ chat with those that “liked” back.
 ## :pencil2: `Objectives`<br/>
 
 :thought_balloon: The app must allow a user to register, after the registration a unique link sent his email to verify his account and will be able to connect <br/>
-with his username and password 
-:thought_balloon: Once connected the user must fill his/her profile (gender, sexual preferences, bio, tags, pictures...), at any time connected user can modify these information.
-:thought_balloon: The user can edit his GPS location.
+with his username and password <br/>
+:thought_balloon: Once connected the user must fill his/her profile (gender, sexual preferences, bio, tags, pictures...), at any time connected user can modify these information. <br/>
+:thought_balloon: The user can edit his GPS location. <br/>
