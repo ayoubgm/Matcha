@@ -8,6 +8,7 @@ chat with those that “liked” back.
 <br/><br/>
 
 [![Screen-Shot-2021-04-02-at-2-42-23-PM.png](https://i.postimg.cc/s27dgbpq/Screen-Shot-2021-04-02-at-2-42-23-PM.png)](https://postimg.cc/Y4ryXnDz)
+[![Screen-Shot-2021-04-02-at-3-25-16-PM.png](https://i.postimg.cc/fW1wM4S7/Screen-Shot-2021-04-02-at-3-25-16-PM.png)](https://postimg.cc/7bMvNWVb)
 
 ## :pencil2: `Objectives`<br/>
 
@@ -28,3 +29,6 @@ with his username and password <br/>
 
 ## :camera: `Screen shots`</br>
 ### :triangular_flag_on_post: `Home`</br>
+[![Screen-Shot-2021-04-02-at-3-25-16-PM.png](https://i.postimg.cc/fW1wM4S7/Screen-Shot-2021-04-02-at-3-25-16-PM.png)](https://postimg.cc/7bMvNWVb)
+### :triangular_flag_on_post: `Register`</br>
+[![Screen-Shot-2021-04-02-at-2-49-43-PM.png](https://i.postimg.cc/MTGLQGNc/Screen-Shot-2021-04-02-at-2-49-43-PM.png)](https://postimg.cc/bGKLXqz8)
