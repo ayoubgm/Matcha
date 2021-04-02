@@ -44,5 +44,5 @@ with his username and password <br/>
 ### :triangular_flag_on_post: `Profile of others`</br>
 [![Screen-Shot-2021-04-02-at-3-26-07-PM.png](https://i.postimg.cc/nz66fJSC/Screen-Shot-2021-04-02-at-3-26-07-PM.png)](https://postimg.cc/R6LPwjBB)
 <br/>
-Created for 1337 by :heart:
+Created for 1337 by :heart:<br>/
 Many thanks to: Loubna Soulimani, Samir Berrichi
