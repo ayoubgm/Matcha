@@ -8,7 +8,7 @@ chat with those that “liked” back.
 <br/><br/>
 
 [![Screen-Shot-2021-04-02-at-2-42-23-PM.png](https://i.postimg.cc/s27dgbpq/Screen-Shot-2021-04-02-at-2-42-23-PM.png)](https://postimg.cc/Y4ryXnDz)
-[![Screen-Shot-2021-04-02-at-3-25-16-PM.png](https://i.postimg.cc/fW1wM4S7/Screen-Shot-2021-04-02-at-3-25-16-PM.png)](https://postimg.cc/7bMvNWVb)
+[![Screen-Shot-2021-04-02-at-3-33-38-PM.png](https://i.postimg.cc/Qt5f5WSd/Screen-Shot-2021-04-02-at-3-33-38-PM.png)](https://postimg.cc/sQjPCxtk)
 
 ## :pencil2: `Objectives`<br/>
 
