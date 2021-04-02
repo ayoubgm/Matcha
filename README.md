@@ -28,7 +28,15 @@ with his username and password <br/>
 :eyes: antd (UI)<br/>
 
 ## :camera: `Screen shots`</br>
-### :triangular_flag_on_post: `Home`</br>
-[![Screen-Shot-2021-04-02-at-3-25-16-PM.png](https://i.postimg.cc/fW1wM4S7/Screen-Shot-2021-04-02-at-3-25-16-PM.png)](https://postimg.cc/7bMvNWVb)
 ### :triangular_flag_on_post: `Register`</br>
 [![Screen-Shot-2021-04-02-at-2-49-43-PM.png](https://i.postimg.cc/MTGLQGNc/Screen-Shot-2021-04-02-at-2-49-43-PM.png)](https://postimg.cc/bGKLXqz8)
+### :triangular_flag_on_post: `Login`</br>
+[![Screen-Shot-2021-04-02-at-2-49-35-PM.png](https://i.postimg.cc/gJnWP4YB/Screen-Shot-2021-04-02-at-2-49-35-PM.png)](https://postimg.cc/xJD7vvNK)
+### :triangular_flag_on_post: `Complete profile`</br>
+[![Screen-Shot-2021-04-02-at-3-24-33-PM.png](https://i.postimg.cc/DyQRHRrw/Screen-Shot-2021-04-02-at-3-24-33-PM.png)](https://postimg.cc/qzRmCbDP)
+### :triangular_flag_on_post: `Profile`</br>
+[![Screen-Shot-2021-04-02-at-3-25-26-PM.png](https://i.postimg.cc/pV5HG0cm/Screen-Shot-2021-04-02-at-3-25-26-PM.png)](https://postimg.cc/jCTmChbT)
+### :triangular_flag_on_post: `Home`</br>
+[![Screen-Shot-2021-04-02-at-3-25-16-PM.png](https://i.postimg.cc/fW1wM4S7/Screen-Shot-2021-04-02-at-3-25-16-PM.png)](https://postimg.cc/7bMvNWVb)
+### :triangular_flag_on_post: `Profile of others`</br>
+[![Screen-Shot-2021-04-02-at-3-26-07-PM.png](https://i.postimg.cc/nz66fJSC/Screen-Shot-2021-04-02-at-3-26-07-PM.png)](https://postimg.cc/R6LPwjBB)
