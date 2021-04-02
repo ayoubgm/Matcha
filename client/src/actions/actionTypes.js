@@ -1,0 +1,14 @@
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAIL = "LOGIN_FAIL";
+export const LOGOUT = "LOGOUT";
+export const ERROR_ON_FIELDS = "ERROR_ON_FIELDS";
+export const FAILED = "FAILED";
+export const SUCCESS = "SUCCESS";
+export const COMPLETE = "COMPLETE";
+export const REMOVE_ERRORS = "REMOVE_ERRORS";
+export const VERIFY_ACCOUNT = "VERIFY_ACCOUNT";
+export const EDITSUCCESS = "EDITSUCCESS";
+export const EDITFAILED = "EDITFAILED";
+export const CHANGE_PASSWORD_SUCCESS = "CHANGE_PASSWORD_SUCCESS";
+export const REMOVE_ERROR_CP = "REMOVE_ERROR_CP";
+export const USER_AUTH = "USER_AUTH";
